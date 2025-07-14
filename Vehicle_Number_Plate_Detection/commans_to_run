@@ -1,3 +1,3 @@
-python command prompt
+#using python command prompt
 pip install -r requirements.txt
-python -m streamlit run number_plate_detection.pygit
+python -m streamlit run number_plate_detection.py
