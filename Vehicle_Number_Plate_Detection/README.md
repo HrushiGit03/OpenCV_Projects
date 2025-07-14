@@ -10,7 +10,6 @@ This project detects vehicle number plates from images using OpenCV and provides
 ## 📂 Project Structure
 
 
-
 Vehicle\_Number\_Plate\_Detection/
 ├── app.py                        # Streamlit app UI
 ├── number\_plate\_detection.py     # Core detection logic using OpenCV
@@ -68,9 +67,6 @@ Vehicle\_Number\_Plate\_Detection/
 
 > 💡 Feel free to contribute or raise issues in the GitHub repository.
 
-
-
----
 
 
 
