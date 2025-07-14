@@ -1,0 +1,3 @@
+python command prompt
+pip install -r requirements.txt
+python -m streamlit run number_plate_detection.pygit
