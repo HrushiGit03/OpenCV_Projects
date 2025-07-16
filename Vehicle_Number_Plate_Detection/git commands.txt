@@ -1,0 +1,7 @@
+git clone <repo-url>
+cd <repo>
+git checkout -b <branch-name>
+# Make changes
+git add .
+git commit -m "Message"
+git push --set-upstream origin <branch-name>
